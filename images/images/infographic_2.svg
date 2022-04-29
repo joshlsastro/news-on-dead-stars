@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="infographic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.48284231"
+     inkscape:cx="396.60982"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1312"
+     inkscape:window-height="770"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="596.46803"
+       y="689.66616"
+       width="171.89877"
+       height="263.02583"
+       id="rect54087" />
+    <rect
+       x="41.421391"
+       y="840.85423"
+       width="306.51829"
+       height="238.173"
+       id="rect32843" />
+    <rect
+       x="43.49246"
+       y="472.20385"
+       width="289.94974"
+       height="178.11198"
+       id="rect18840" />
+    <rect
+       x="167.75663"
+       y="33.137113"
+       width="497.05669"
+       height="60.061017"
+       id="rect14720" />
+    <rect
+       x="134.61952"
+       y="43.49246"
+       width="588.18375"
+       height="134.61952"
+       id="rect5532" />
+    <marker
+       style="overflow:visible;"
+       id="marker2390"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path2388" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path1918" />
+    </marker>
+    <marker
+       id="ExperimentalArrow"
+       refX="5.0"
+       refY="3.0"
+       orient="auto-start-reverse"
+       inkscape:stockid="ExperimentalArrow"
+       inkscape:isstock="true">
+      <path
+         style="fill:context-stroke"
+         d="m 10,3 -10,3 0,-6 z"
+         id="path2150" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective3864" />
+    <rect
+       x="101.48241"
+       y="51.776738"
+       width="590.25482"
+       height="130.47738"
+       id="rect2517" />
+    <marker
+       style="overflow:visible"
+       id="marker2390-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path2388-7" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#191919;fill-opacity:1;stroke:#000000;stroke-width:0.265751"
+       id="rect73"
+       width="212.28279"
+       height="297"
+       x="-1.86212"
+       y="0.54797047" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.168911"
+       id="path17597"
+       r="7.171452"
+       cy="92.059036"
+       cx="50.413288" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.168911"
+       id="path17597-3"
+       r="7.171452"
+       cy="91.511063"
+       cx="70.140221" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.168911"
+       id="path17597-3-3"
+       r="7.171452"
+       cy="202.20111"
+       cx="49.317348" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="path1654"
+       r="13.151292"
+       cy="201.65312"
+       cx="75.619926" />
+    <path
+       id="path3788"
+       style="fill:none;stroke:#0000ff;stroke-width:0.678057;stroke-opacity:1"
+       d="m 101.63938,81.48299 c 8.41434,-3e-6 15.23551,6.329735 15.23551,14.137862 0,7.808128 -6.82117,14.137868 -15.23551,14.137868"
+       sodipodi:nodetypes="csc" />
+    <path
+       id="path3788-9"
+       style="fill:none;stroke:#0000ff;stroke-width:0.678057;stroke-opacity:1"
+       d="m 113.3142,81.208999 c 8.41434,-3e-6 15.23551,6.329735 15.23551,14.137862 0,7.808129 -6.82117,14.137869 -15.23551,14.137869"
+       sodipodi:nodetypes="csc" />
+    <path
+       id="path3788-9-7"
+       style="fill:none;stroke:#0000ff;stroke-width:0.678057;stroke-opacity:1"
+       d="m 106.19059,169.98022 c 8.41434,0 15.23551,6.32974 15.23551,14.13786 0,7.80813 -6.82117,14.13787 -15.23551,14.13787"
+       sodipodi:nodetypes="csc" />
+    <path
+       id="path3788-9-7-3"
+       style="fill:none;stroke:#0000ff;stroke-width:0.678057;stroke-opacity:1"
+       d="m 118.79391,169.98022 c 8.41434,0 15.23551,6.32974 15.23551,14.13786 0,7.80813 -6.82117,14.13787 -15.23551,14.13787"
+       sodipodi:nodetypes="csc" />
+    <path
+       id="path3788-9-7-3-6"
+       style="fill:none;stroke:#0000ff;stroke-width:0.678057;stroke-opacity:1"
+       d="m 131.39724,171.07616 c 8.41434,0 15.23551,6.32974 15.23551,14.13786 0,7.80813 -6.82117,14.13787 -15.23551,14.13787"
+       sodipodi:nodetypes="csc" />
+    <path
+       id="path3788-9-0"
+       style="fill:none;stroke:#0000ff;stroke-width:0.678057;stroke-opacity:1"
+       d="m 124.82158,80.661028 c 8.41434,-3e-6 15.23551,6.329735 15.23551,14.137862 0,7.80813 -6.82117,14.13787 -15.23551,14.13787"
+       sodipodi:nodetypes="csc" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.7398524,2.1918816)"
+       id="text5530"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5532);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="134.61914"
+         y="61.738794"
+         id="tspan1149"><tspan
+           style="fill:#ffffff"
+           id="tspan1147">When large objects orbit and then collide, they produce </tspan></tspan><tspan
+         x="134.61914"
+         y="86.738794"
+         id="tspan1153"><tspan
+           style="fill:#ffffff"
+           id="tspan1151">gravitational waves. It would be convenient if they gave </tspan></tspan><tspan
+         x="134.61914"
+         y="111.73879"
+         id="tspan1157"><tspan
+           style="fill:#ffffff"
+           id="tspan1155">off easier-to-detect light.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text18838"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18840);fill:#ffffff;fill-opacity:1;stroke:none"><tspan
+         x="43.492188"
+         y="490.44973"
+         id="tspan1159">When neutron stars collide, </tspan><tspan
+         x="43.492188"
+         y="515.44973"
+         id="tspan1161">they produce gravitational </tspan><tspan
+         x="43.492188"
+         y="540.44973"
+         id="tspan1163">waves and light.</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text32841"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect32843);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="41.421875"
+         y="859.10012"
+         id="tspan1167"><tspan
+           style="fill:#ffffff"
+           id="tspan1165">According to Giacomo </tspan></tspan><tspan
+         x="41.421875"
+         y="884.10012"
+         id="tspan1171"><tspan
+           style="fill:#ffffff"
+           id="tspan1169">Fragione, these observations </tspan></tspan><tspan
+         x="41.421875"
+         y="909.10012"
+         id="tspan1175"><tspan
+           style="fill:#ffffff"
+           id="tspan1173">imply that black holes and </tspan></tspan><tspan
+         x="41.421875"
+         y="934.10012"
+         id="tspan1179"><tspan
+           style="fill:#ffffff"
+           id="tspan1177">neutron stars rarely produce </tspan></tspan><tspan
+         x="41.421875"
+         y="959.10012"
+         id="tspan1183"><tspan
+           style="fill:#ffffff"
+           id="tspan1181">light when colliding. The black </tspan></tspan><tspan
+         x="41.421875"
+         y="984.10012"
+         id="tspan1187"><tspan
+           style="fill:#ffffff"
+           id="tspan1185">hole just consumes the </tspan></tspan><tspan
+         x="41.421875"
+         y="1009.1001"
+         id="tspan1191"><tspan
+           style="fill:#ffffff"
+           id="tspan1189">neutron star in one big gulp.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,3.8357934,-33.426199)"
+       id="text54085"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect54087);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="596.46875"
+         y="707.91262"
+         id="tspan1195"><tspan
+           style="fill:#ffffff"
+           id="tspan1193">Recent </tspan></tspan><tspan
+         x="596.46875"
+         y="732.91262"
+         id="tspan1199"><tspan
+           style="fill:#ffffff"
+           id="tspan1197">gravitational </tspan></tspan><tspan
+         x="596.46875"
+         y="757.91262"
+         id="tspan1203"><tspan
+           style="fill:#ffffff"
+           id="tspan1201">wave </tspan></tspan><tspan
+         x="596.46875"
+         y="782.91262"
+         id="tspan1207"><tspan
+           style="fill:#ffffff"
+           id="tspan1205">observations of </tspan></tspan><tspan
+         x="596.46875"
+         y="807.91262"
+         id="tspan1211"><tspan
+           style="fill:#ffffff"
+           id="tspan1209">black hole -</tspan></tspan><tspan
+         x="596.46875"
+         y="832.91262"
+         id="tspan1217"><tspan
+           style="fill:#ffffff"
+           id="tspan1213">n</tspan><tspan
+           style="fill:#ffffff"
+           id="tspan1215">eutron star </tspan></tspan><tspan
+         x="596.46875"
+         y="857.91262"
+         id="tspan1221"><tspan
+           style="fill:#ffffff"
+           id="tspan1219">collisions have </tspan></tspan><tspan
+         x="596.46875"
+         y="882.91262"
+         id="tspan1225"><tspan
+           style="fill:#ffffff"
+           id="tspan1223">revealed no light  </tspan></tspan><tspan
+         x="596.46875"
+         y="907.91262"
+         id="tspan1229"><tspan
+           style="fill:#ffffff"
+           id="tspan1227">coming from </tspan></tspan><tspan
+         x="596.46875"
+         y="932.91262"
+         id="tspan1233"><tspan
+           style="fill:#ffffff"
+           id="tspan1231">them.</tspan></tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 99.182657,122.74539 V 133.7048 L 153.9797,129.32103 Z"
+       id="path1526" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.52874,221.38299 v 10.95941 l 54.79705,-4.38377 z"
+       id="path1526-4" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 151.28218,238.42596 99.730626,210.42067"
+       id="path2014" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1.27471;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 147.94358,207.49071 -41.08087,36.54625"
+       id="path2014-7" />
+  </g>
+</svg>
