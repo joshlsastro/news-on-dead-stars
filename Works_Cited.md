@@ -20,7 +20,7 @@ Susanna Kohler, "LIGO/Virgo Spots Neutron Stars Colliding with Black Holes", <ht
 
 R. Abbott et al., "Observation of Gravitational Waves from Two Neutron Star–Black Hole Coalescences", <https://iopscience.iop.org/article/10.3847/2041-8213/ac082e>
 
-Contributors to COMPAS, "COMPAS | About", <https://compas.science/>
+Contributors to COMPAS, "COMPAS \| About", <https://compas.science/>
 
 Fred Walter and NASA, "Hubble Sees a Neutron Star Alone in Space", <https://hubblesite.org/contents/media/images/1997/32/523-Image.html?news=true>
 
