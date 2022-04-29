@@ -26,7 +26,7 @@ Fred Walter and NASA, "Hubble Sees a Neutron Star Alone in Space", <https://hubb
 
 Henry Reich, "Gravitational Waves Explained Using Stick Figures", <https://www.youtube-nocookie.com/embed/YHS9g72npqA>
 
-B. P. Abott et al., "Observation of Gravitational Waves from a Binary Black Hole Merger", <https://doi.org/10.1103/PhysRevLett.116.061102>
+B. P. Abbott et al., "Observation of Gravitational Waves from a Binary Black Hole Merger", <https://doi.org/10.1103/PhysRevLett.116.061102>
 
 Randolf Pohl et al., "The size of the proton", <https://pubmed.ncbi.nlm.nih.gov/20613837/>
 
