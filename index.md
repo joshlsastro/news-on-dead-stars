@@ -1,6 +1,6 @@
 # News On Dead Stars
 
-![Cover Page](Cover_Page.png)
+![Cover Page](images/Cover_Page.png)
 
 # Table Of Contents
 
